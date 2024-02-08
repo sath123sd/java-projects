@@ -1,12 +1,11 @@
 
 
-class main {
+public class swich {
     public static void main(String[] args) {
 
         int number = 44;
-        String name;
+        String name = ""; // Initializing the variable 'name' with an empty string
 
-        // switch statement to check size
         switch (number) {
 
             case 29:
